@@ -1,0 +1,14 @@
+{
+    "name": "79636/sobes.ru",
+    "require": {
+        "ext-mysqli": "*",
+        "retailcrm/api-client-php": "~5.0",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "FinalQuest\\":"FinalQuest"
+        }
+    }
+}
